@@ -1,0 +1,3 @@
+http://sensor1.com
+http://sensor2.com
+http://sensor3.com
